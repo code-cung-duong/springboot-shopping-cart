@@ -1,0 +1,10 @@
+<script src="web/vendors/jquery/jquery-3.2.1.min.js"></script>
+<script src="web/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="web/vendors/skrollr.min.js"></script>
+<script src="web/vendors/owl-carousel/owl.carousel.min.js"></script>
+<script src="web/vendors/nice-select/jquery.nice-select.min.js"></script>
+<script src="web/vendors/jquery.ajaxchimp.min.js"></script>
+<script src="web/vendors/mail-script.js"></script>
+<script src="web/js/main.js"></script>
+<script src="web/js/loader.js"></script>
+<script src="web/js/sweetalert.min.js"></script>
